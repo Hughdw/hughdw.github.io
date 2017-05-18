@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Hugh's Blog
 
-You can use the [editor on GitHub](https://github.com/Hughdw/hughdw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+这里暂时没有内容
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hughdw/hughdw.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 我的联系方式
+- 网站：http://addaad.com
+- 邮箱：whdstyle@gmail.com / whdstyle@163.com
+- 博客：http://addaad.com/blog/
+- 作品地址：http://addaad.com/list.html
